@@ -20,8 +20,8 @@ This repository houses a collection of data analytics projects that I have under
 
 Here's a brief overview of the projects included in this portfolio:
 
-1. **[Project Name 1](projects/project_name_1/):** _Brief description of the first project._
-2. **[Project Name 2](projects/project_name_2/):** _Brief description of the second project._
+1. **[Tax Returns Data (SQL)](PROJECTS/Podatnicy):** _Analysing the amounts paid in tax to the Polish government in 2022._
+2. **[Kraków Runmageddon (Python, Jupyter)](PROJECTS/Runmageddon):** _Data scraping, cleaning and analysing Kraków Runmaggedon competition._
 3. ...
 
 Feel free to explore each project folder for more details, including datasets, code, and documentation.
