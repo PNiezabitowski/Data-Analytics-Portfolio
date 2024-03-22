@@ -52,6 +52,6 @@ The projects in this portfolio are created using a variety of tools and technolo
 If you have any questions, feedback, or would like to discuss potential opportunities, feel free to reach out to me:
 
 - **Email:** piotr.niezabitowski11@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/piotr-niezabitowski/))
+- **LinkedIn:** [My LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/piotr-niezabitowski/))
 
 Thank you for visiting my Data Analytics Portfolio! I hope you find the projects insightful and informative.
