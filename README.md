@@ -10,7 +10,6 @@ Welcome to my Data Analytics Portfolio! This repository serves as a showcase of 
 4. [How to Navigate](#how-to-navigate)
 5. [Tools and Technologies](#tools-and-technologies)
 6. [Contact Information](#contact-information)
-7. [License](#license)
 
 ## Introduction
 
