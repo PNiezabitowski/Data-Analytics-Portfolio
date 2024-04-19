@@ -21,8 +21,8 @@ This repository houses a collection of data analytics projects that I have under
 Here's a brief overview of the projects included in this portfolio:
 
 1. **[Tax Returns Data (SQL)](PROJECTS/Podatnicy):** _Analysing the amounts paid in tax to the Polish government in 2022._
-2. **[Kraków Runmageddon (Python, Jupyter)](PROJECTS/Runmageddon/KRK):** _Data scraping, cleaning and analysing Kraków Runmaggedon competition._
-3. ...
+2. **[Kraków Runmageddon (Python, Data Visualisation, Jupyter)](PROJECTS/Runmageddon/KRK):** _Data scraping, cleaning and analysing Kraków Runmaggedon competition._
+3. **[Learning Data Science on Coursera (Python, Scraping, Jupyter)](PROJECTS/Coursera):** _Scraping courses related to Data Science on the Coursera website and answering real-world questions about which courses to enroll on._
 
 Feel free to explore each project folder for more details, including datasets, code, and documentation.
 
@@ -30,7 +30,6 @@ Feel free to explore each project folder for more details, including datasets, c
 
 - **projects/:** Contains subfolders for each project, each with its own README providing specific details about the project.
 - **DATASETS/:** Holds datasets used in the projects.
-- **scripts/:** Contains any reusable scripts or code snippets.
 
 ## How to Navigate
 
@@ -53,5 +52,6 @@ If you have any questions, feedback, or would like to discuss potential opportun
 
 - **Email:** piotr.niezabitowski11@gmail.com
 - **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/piotr-niezabitowski/)
+- **Kaggle:** [My Kaggle](https://www.kaggle.com/piotrniezabitowski)
 
 Thank you for visiting my Data Analytics Portfolio! I hope you find the projects insightful and informative.
